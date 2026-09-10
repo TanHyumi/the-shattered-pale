@@ -1,8 +1,11 @@
+---
+tags:
+  - geographic area
+  - continent
+---
+
 # Sa Zortao
 
----
-tags: geographic area, continent
----
 Overview
 ========
 

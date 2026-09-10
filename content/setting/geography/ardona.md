@@ -1,8 +1,11 @@
+---
+tags:
+  - geographic area
+  - continent
+---
+
 # Ardona
 
----
-tags: geographic area, continent
----
 Overview
 ========
 

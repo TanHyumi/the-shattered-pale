@@ -1,8 +1,11 @@
+---
+tags:
+  - geographic area
+  - continent
+---
+
 # Khor
 
----
-tags: geographic area, continent
----
 Overview
 ========
 

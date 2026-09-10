@@ -27,6 +27,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+plugins:
+  - search
+  - tags
 
 markdown_extensions:
   - admonition

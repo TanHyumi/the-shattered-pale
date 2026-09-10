@@ -1,8 +1,10 @@
+---
+tags:
+  - country
+---
+
 # Endaros
 
----
-tags: country
----
 Overview
 ========
 

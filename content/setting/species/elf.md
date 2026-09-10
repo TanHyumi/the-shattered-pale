@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Elf
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 40+, Life Expectancy - 400
 - **Common Names:** Eldureth, Iruvelon, Syndos, Otarielle
 
----
-tags: race
----
 Description
 -----------
 

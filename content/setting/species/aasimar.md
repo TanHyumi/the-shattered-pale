@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Aasimar
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 40+, Life Expectancy - 200
 - **Common Names:** Thaliorus, Elystria, Astrelius, Lurimaros
 
----
-tags: race
----
 Description
 -----------
 

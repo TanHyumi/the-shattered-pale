@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Dragonborn
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 20+, Life Expectancy - 100
 - **Common Names:** Tzamak, Ozmel, Mixaleth, Zyotlan
 
----
-tags: race
----
 Description
 -----------
 

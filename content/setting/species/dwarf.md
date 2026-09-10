@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Dwarf
 
 ### Species Traits
@@ -5,9 +10,6 @@
 - **Languages:** Dwarven
 - **Lifespan:** Adulthood - 40+, Life Expectancy - 300
 
----
-tags: race
----
 Description
 -----------
 

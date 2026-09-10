@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Genasi
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 30+, Life Expectancy - 150
 - **Common Names:** Varash, Raithu, Minali, Suryak
 
----
-tags: race
----
 Description
 -----------
 

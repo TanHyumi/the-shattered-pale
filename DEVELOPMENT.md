@@ -87,6 +87,20 @@ Use these to highlight GM notes, lore snippets, or warnings:
     Traveling through this area requires constitution checks.
 ```
 
+### Adding Tags
+Place YAML frontmatter at the very top of your markdown document (line 1):
+
+```markdown
+---
+tags:
+  - race
+  - elder-race
+---
+
+# Page Title
+```
+Tags will automatically render as neat badges/pills at the top of the article rather than cluttering your text or Table of Contents.
+
 ### Adding New Pages
 1. Create your new markdown file inside `content/setting/` (e.g. `content/setting/geography/new-region.md`).
 2. Add the page to the navigation menu in `mkdocs.yml` under the `nav:` section:
@@ -99,7 +113,37 @@ Use these to highlight GM notes, lore snippets, or warnings:
 
 ---
 
-## 5. Troubleshooting & FAQ
+## 5. Player Wiki & Publishing (Sharing with Players)
+
+MkDocs isn't just for local viewing—it is designed to compile into a static website that acts as a **public player compendium / wiki**, similar to a clean, mobile-friendly GitHub wiki.
+
+### Why It's Great for Players
+- **Instant Search**: Players can quickly search for deities, lore, factions, or houserules with instant suggestions.
+- **Mobile Friendly**: The `mkdocs-material` theme is responsive and easy to read on phones/tablets at the game table.
+- **Dark / Light Mode**: Players can switch themes using the toggle icon in the top right.
+
+### Free Hosting Options
+Because MkDocs generates static HTML (`public/`), you can host it completely free:
+
+#### Option A: GitHub Pages (Built-in Command)
+MkDocs includes a one-step deploy tool that pushes the compiled site directly to GitHub Pages:
+```bash
+source venv/bin/activate
+mkdocs gh-deploy
+```
+This deploys the site to `https://<username>.github.io/<repository-name>/`.
+
+#### Option B: Cloudflare Pages / Vercel / Netlify
+You can link your GitHub repository to Cloudflare Pages or Netlify. Whenever you push to `main`, it will build the site automatically using `mkdocs build` and publish the `public/` directory live.
+
+### Keeping Secrets Safe (GM vs. Player Lore)
+Only files located in `content/setting/` (configured as `docs_dir` in `mkdocs.yml`) are built into the public player site.
+- **Player-safe**: Everything in `content/setting/`.
+- **Private GM material**: Files kept in `content/raw_export/`, `content/modules/`, or other root folders will **never** be published to the wiki unless specifically copied into `content/setting/` and added to `mkdocs.yml`.
+
+---
+
+## 6. Troubleshooting & FAQ
 
 #### Q: `zsh: command not found: mkdocs`
 **Cause:** The virtual environment is not activated, so your shell cannot find `mkdocs`.  

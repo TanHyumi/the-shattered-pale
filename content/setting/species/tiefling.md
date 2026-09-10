@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Tiefling
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 20+, Life Expectancy - 100
 - **Common Names:** Zariq, Azzur, Safira, Kalia
 
----
-tags: race
----
 Description
 -----------
 

@@ -1,8 +1,11 @@
+---
+tags:
+  - geographic area
+  - continent
+---
+
 # Soland
 
----
-tags: geographic area, continent
----
 Overview
 ========
 

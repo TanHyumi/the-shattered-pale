@@ -1,8 +1,10 @@
+---
+tags:
+  - event
+---
+
 # The Arrival
 
----
-tags: event
----
 Overview
 --------
 

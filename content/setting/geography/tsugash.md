@@ -1,8 +1,11 @@
+---
+tags:
+  - geographic area
+  - continent
+---
+
 # Tsugash
 
----
-tags: geographic area, continent
----
 Overview
 ========
 

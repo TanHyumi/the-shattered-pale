@@ -1,9 +1,14 @@
+---
+tags:
+  - event
+aliases:
+  - War for Raasha
+  - The Great War
+  - The War
+---
+
 # The War for Raasha
 
----
-tags: event
-aliases: War for Raasha, The Great War, The War
----
 Overview
 --------
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - race
+---
+
 # Saurian
 
 ### Species Traits
@@ -6,9 +11,6 @@
 - **Lifespan:** Adulthood - 15+, Life Expectancy - 75
 - **Common Names:** Zalhira, Rhazunho, Koralex, Tzarelh
 
----
-tags: race
----
 Description
 -----------
 
