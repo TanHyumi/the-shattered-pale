@@ -1,0 +1,24 @@
+---
+tags: race
+---
+Description
+-----------
+
+As their name implies, Dragonborn are the humanoid descendants of the feathered serpent gods of old. Being one of the three Elder Races, Dragonborn appear as bipedal versions of their draconic ancestors, carrying both the physical presence and elemental power of the ancient dragons. Their ability to exhale elemental energy makes them natural arcanists, but they are just as well known for their legendary warriors as for their sorcerers.
+
+Most Dragonborn hail from [Sa Zortao](The%20Shattered%20Pale%20\(Wiki%20Home\)/Continents/Sa%20Zortao.md), their jungle homeland, though some clans have migrated to distant lands for reasons unknown to outsiders. Their historic cities rise from canopies and mountainsides with towering temples and bold monuments, each one a testament to their pride and long memory. Dragonborn are passionate people, famous for their vibrant festivals and equally famous for their quick tempers.
+
+Physical Traits
+---------------
+
+Dragonborn are tall, muscular, and covered in scales, with horned heads and vibrant feathers. Their facial structure and general appearance is that of a dragon in humanoid form. The color of their scales reveals the element they were born to wield and exhale. Their lifespan is average among the peoples of Raasha and shorter than their Elder Race kin, but they live with a fierce intensity, as if every day might be their last.
+
+Subraces
+--------
+
+*   **Chromatic** \- Descended from the radiant serpent‑god [Tec‑Natz‑Tum](The%20Shattered%20Pale%20\(Wiki%20Home\)/Pantheons/Anazuatl/Tec‑Natz‑Tum.md), the Prism Serpent, they embody the full spectrum of elemental power. Their scales range in color, hinting at the element they can exhale, and their temperaments tend to be bold, expressive, and unpredictable.
+    
+*   **Metallic** \- Born of the platinum serpent [Zatl’ka](The%20Shattered%20Pale%20\(Wiki%20Home\)/Pantheons/Anazuatl/Zatl’ka.md), they embody discipline, strength, and refined martial skill. Their scales gleam like worked metal, and their elemental breath is controlled and precise, but they are best known for their unmatched warriors.
+    
+
+<div data-node-type="bodied-extension" data-testid="bodied-extension" data-extension-type="com.algorific.legendkeeper.extensions" data-extension-key="block-secret" data-parameters="{&quot;extensionTitle&quot;:&quot;Secret&quot;}" data-layout="default" class="relative flex flex-col w-full px-4 pt-3.5 pb-4 border-2 border-dashed border-purple-500/50 rounded-lg mt-4 mb-px first:mt-0 group/block overflow-visible lk-secret-block" style="white-space:normal" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:468:13:div"><div class="flex items-center gap-1.5 mb-2 text-[11px] font-semibold uppercase tracking-wider text-purple-600 dark:text-purple-400" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:479:15:div"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock size-3.5" aria-hidden="true" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:480:17:Lock"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg><span data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:481:17:span">Secret</span></div><div class="" data-node-view-content="" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:483:15:div"><ul class="my-2 list-disc pl-6 ml-0 border-box flow-root" data-insp-path="packages/editor/src/extensions/bullet-list/index.tsx:27:28:ul"><li data-insp-path="packages/editor/src/extensions/list-item/index.tsx:9:28:li"><p class="mt-4 first:!mt-0 leading-[1.6] tracking-normal" data-insp-path="packages/editor/src/extensions/paragraph/index.tsx:67:12:p"><strong data-insp-path="packages/editor/src/extensions/strong/index.tsx:12:7:strong"><span data-insp-path="packages/editor/src/extensions/dice/DiceText.tsx:30:12:span">Gem - </span></strong><span data-insp-path="packages/editor/src/extensions/dice/DiceText.tsx:30:12:span">Descended from a mysterious cosmic serpent whose domain is </span><strong data-insp-path="packages/editor/src/extensions/strong/index.tsx:12:7:strong"><span data-insp-path="packages/editor/src/extensions/dice/DiceText.tsx:30:12:span">space and time</span></strong><span data-insp-path="packages/editor/src/extensions/dice/DiceText.tsx:30:12:span">, they are calm, introspective, and perceptive. Their scales shimmer with crystalline hues, and their breath carries echoes of distant stars or temporal distortion.</span></p></li></ul></div></div>

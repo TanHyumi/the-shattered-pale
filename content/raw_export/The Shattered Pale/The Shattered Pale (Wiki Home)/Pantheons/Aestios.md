@@ -1,0 +1,1 @@
+The Aestios are a benevolent pantheon of star-faring celestials who navigated the cosmos by charting new constellations before arriving on Raasha. Revered across the realm for their deep wisdom, they fundamentally reshaped history by bestowing the secret art of life-creation upon the world's native gods.

@@ -1,0 +1,1 @@
+The Ziratu are a secretive, taboo pantheon revered and feared as the silent architects of the Great War. Operating from the shadows in humanoid form, these cosmic pursuers infiltrated mortal societies, inadvertently spawning the original [Tiefling](The%20Shattered%20Pale%20\(Wiki%20Home\)/Races/Tiefling.md) bloodlines before sealing their own fate behind the Veil.

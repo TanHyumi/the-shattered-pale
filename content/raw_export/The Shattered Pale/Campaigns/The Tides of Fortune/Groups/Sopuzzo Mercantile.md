@@ -1,0 +1,71 @@
+---
+tags: organization
+---
+Overview
+========
+
+Description
+-----------
+
+A small trading company based out of eastern [Soland](The%20Shattered%20Pale%20\(Wiki%20Home\)/Continents/Soland.md), founded and currently run by [Aasimar](undefined.md) businessman [Dulyn Sopuzzo](Campaigns/The%20Tides%20of%20Fortune/Campaign%20NPCs/Dulyn%20Sopuzzo.md).
+
+Within the trading industry, Sopuzzo Mercantile primarily deals in selling rare and exotic pieces, and serving as a seafaring shipping partner.
+
+Currently [Dulyn Sopuzzo](Campaigns/The%20Tides%20of%20Fortune/Campaign%20NPCs/Dulyn%20Sopuzzo.md) is funding and leading an expedition to [The Emerald Reach](Campaigns/The%20Tides%20of%20Fortune/Locations/The%20Emerald%20Reach.md). He and his crew are sailing out of [Soland](The%20Shattered%20Pale%20\(Wiki%20Home\)/Continents/Soland.md) aboard [The Wishbone](Campaigns/The%20Tides%20of%20Fortune/DM%20Screen/The%20Wishbone/The%20Wishbone.md).
+
+History
+-------
+
+Due to Dulyn's lack of restraint and eagerness to share, many have heard the story of how Sopuzzo Mercantile started. Dulyn spent all of his money on a small sailing boat, transporting spices along the inner Soland coast after finding it saved 1 day of land travel. Inch by inch and through relentless endurance, he expanded his company.
+
+Structure
+---------
+
+Currently, [Dulyn Sopuzzo](Campaigns/The%20Tides%20of%20Fortune/Campaign%20NPCs/Dulyn%20Sopuzzo.md) is very involved in the business's operations. He employs a handful of captains, who maintain set shipping routes, while also financing (and often participating in) longer expeditions to procure rare merchandise.
+
+<div data-node-type="bodied-extension" data-testid="bodied-extension" data-extension-type="com.algorific.legendkeeper.extensions" data-extension-key="block-secret" data-parameters="{&quot;extensionTitle&quot;:&quot;Secret&quot;}" data-layout="default" class="relative flex flex-col w-full px-4 pt-3.5 pb-4 border-2 border-dashed border-purple-500/50 rounded-lg mt-4 mb-px first:mt-0 group/block overflow-visible lk-secret-block" style="white-space:normal" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:468:13:div"><div class="flex items-center gap-1.5 mb-2 text-[11px] font-semibold uppercase tracking-wider text-purple-600 dark:text-purple-400" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:479:15:div"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock size-3.5" aria-hidden="true" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:480:17:Lock"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg><span data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:481:17:span">Secret</span></div><div class="" data-node-view-content="" data-insp-path="packages/editor/src/extensions/multi-extension-bodied/index.tsx:483:15:div"><p class="mt-4 first:!mt-0 leading-[1.6] tracking-normal" data-insp-path="packages/editor/src/extensions/paragraph/index.tsx:67:12:p"><span data-insp-path="packages/editor/src/extensions/dice/DiceText.tsx:30:12:span">Content in this block is a secret; information that only admins can see. Modify it to fit your needs.</span></p></div></div>
+
+  
+
+,
+
+Mission
+=======
+
+Goals
+-----
+
+  
+
+Values
+------
+
+  
+
+,
+
+Activities
+==========
+
+Current Projects
+----------------
+
+  
+
+Past Achievements
+-----------------
+
+  
+
+,
+
+Alliances and Rivals
+====================
+
+Alliances
+---------
+
+  
+
+Rivals
+------
